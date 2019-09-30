@@ -28,5 +28,7 @@ document.getElementsByName('storage-selector').forEach((selector)=>{
     selector.addEventListener('click',setLocalStorage)
 })
 
-// To determine if the collected data was properly set please run localStorage.getItem("phoneInfoSelected")
+// Please run code on terminal, press any of the Memory Option buttons and then run localStorage.getItem("phoneInfoSelected") 
 // on your console
+
+// Code specific to https://www.telus.com/en/mobility/configure?product=iphone-11-pro-max&sku=NLAIP11PM64GR page
